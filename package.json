@@ -1,0 +1,6 @@
+{
+  "name": "tool-lib84",
+  "version": "1.7.9",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
